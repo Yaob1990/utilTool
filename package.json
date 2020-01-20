@@ -1,6 +1,6 @@
 {
   "name": "utiltool",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "main": "dist/utiltool.umd.js",
@@ -13,6 +13,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Yaob1990/utilTool"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/"
   },
   "license": "MIT",
   "engines": {
