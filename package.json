@@ -1,6 +1,6 @@
 {
   "name": "@yao1990/utiltool",
-  "version": "0.0.0-development",
+  "version": "0.0.0-released",
   "description": "常用函数整理\r [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)\r [![Greenkeeper badge](https://badges.greenkeeper.io/Yaob1990/utilTool.svg)](https://greenkeeper.io/)\r [![Travis](https://img.shields.io/travis/Yaob1990/utilTool.svg)](https://travis-ci.org/Yaob1990/utilTool)\r [![Coveralls](https://img.shields.io/coveralls/Yaob1990/utilTool.svg)](https://coveralls.io/github/Yaob1990/utilTool)\r [![Dev Dependencies](https://david-dm.org/Yaob1990/utilTool/dev-status.svg)](https://david-dm.org/Yaob1990/utilTool?type=dev)",
   "keywords": [],
   "main": "dist/utiltool.umd.js",
